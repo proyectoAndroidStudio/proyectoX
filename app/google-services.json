@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962298902741",
+    "project_id": "rescueme-df79e",
+    "storage_bucket": "rescueme-df79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962298902741:android:5b944d260a6905a2958a5c",
+        "android_client_info": {
+          "package_name": "com.example.saveme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962298902741-oivcvtsjlogbsbfhv727io7hooqvo7sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRMztau21ISYeP1xEkhFbQQBwO5GyLNWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962298902741-oivcvtsjlogbsbfhv727io7hooqvo7sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
